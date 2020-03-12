@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string-array name="standard">
+        <item>中国参考标准</item>
+        <item>WHO 标准</item>
+        <item>亚洲标准</item>
+    </string-array>
+</resources>
